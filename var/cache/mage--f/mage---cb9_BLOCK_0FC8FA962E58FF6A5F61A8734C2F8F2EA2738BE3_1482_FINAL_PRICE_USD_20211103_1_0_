@@ -1,0 +1,16 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1635929378;s:6:"expire";i:1636015778;s:4:"tags";s:48:"cb9_BLOCK_HTML,cb9_CAT_P_1482,cb9_CAT_P,cb9_MAGE";}
+a:2:{s:8:"policies";a:2:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:18:{s:44:"oUV+vbmn8TH37Gvx9seYR2YV1w38aH7BVkPGIyuJC/w=";s:6:"sha256";s:44:"48sb4Je7XoTlJimO7pm/+fwXo5BBI6oU4Vci+QqK2/I=";s:6:"sha256";s:44:"kUdIWiatURyAea1bhLxzW5JgJLFcbPA+HewOl2LIM4I=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"mjU5VdQQihDtdzErlRZAeHTp+sZEBzlVFIJ7bOM4e/w=";s:6:"sha256";s:44:"EkRY8hI1QIk7I/jJ6Zg+SrVnJYB6QBMZ5tB1cdCrSM4=";s:6:"sha256";s:44:"XizkKsz2yMDTRGAq3/y4f+lSoPUX7w9cJ/MN/oVaHLo=";s:6:"sha256";s:44:"haHjRLoVvfRN4ZcfmhqMUNz5TNa7WFJ9qUP/o6hz9tQ=";s:6:"sha256";s:44:"zjYi0hsWgXLIHr3BLZAkiOVgXZsgVKnwXgSLCLBR1cY=";s:6:"sha256";s:44:"uOhlb1fKA9gkdsmWvC8KgH3Y6zKR39V+IFGlqOybQ+k=";s:6:"sha256";s:44:"ArYKqM5bq96olcbStvyOZf6axhgUy8/oWyW16pPEN1I=";s:6:"sha256";s:44:"X2YXLR/sqxamxpQI3rgwdLjPQXmj3KR5zAFKJ1dve4U=";s:6:"sha256";s:44:"n+m0DejkZPm8SSmVmVZdRCFxIUHFtMaUVeQnKuu+0YY=";s:6:"sha256";s:44:"EwU0c9MotQ9JwvTm0Ln3pmSu4e7GKsaSqNVEF3cGWPo=";s:6:"sha256";s:44:"DQAhqhjMDDcKy2QtVycELsEJJK/ZYU3yXUPa1FhVAvE=";s:6:"sha256";s:44:"KaDcivHZyiL0IRx7WDzyFUBITCR2xwztYtkVSJAec6I=";s:6:"sha256";s:44:"dupzDc13p4YntT07ma7e0Md2cl/Hhngh4AZ/Kb37Dxg=";s:6:"sha256";s:44:"tAbGwcGP/4p7HomS86eGN7cuvlqJT00j1Qgt6vMuDKo=";s:6:"sha256";}}i:1;a:3:{s:2:"id";s:9:"style-src";s:5:"hosts";a:0:{}s:6:"hashes";a:4:{s:44:"ObtIbfgw9ks6XUVrWfEMFbC2FJCoquARnNo9MlwZyPE=";s:6:"sha256";s:44:"T4la60yyP2D7o88X8cCLO/RDIg609p/cjwG5h1sH75c=";s:6:"sha256";s:44:"M0xpLyuA+d8ijtWhrbo9kX20Klh04iBoDnb+fqDrq9o=";s:6:"sha256";s:44:"QSxULjHHhnsK4gfPRtekqVV18Vtd5VgTbapXojmoNEo=";s:6:"sha256";}}}s:4:"html";s:507:"<div class="price-box price-final_price" data-role="priceBox" data-product-id="1482" data-price-box="product-id-1482"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="product-price-1482"                data-price-amount="42"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$42.00</span></span>
+        </span>
+</span>
+
+
+</div>";}

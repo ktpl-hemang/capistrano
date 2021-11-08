@@ -1,0 +1,1 @@
+/var/www/html/capistrano/webroot/lib/web/jquery/spectrum/tinycolor.js

@@ -1,0 +1,1 @@
+/var/www/html/capistrano/webroot/lib/web/mage/gallery/gallery.js

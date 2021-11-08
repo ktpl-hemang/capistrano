@@ -1,0 +1,1 @@
+/var/www/html/capistrano/webroot/vendor/magento/module-catalog/view/frontend/web/js/product/storage/storage-service.js

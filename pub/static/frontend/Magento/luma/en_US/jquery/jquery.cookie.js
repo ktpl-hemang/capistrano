@@ -1,0 +1,1 @@
+/var/www/html/capistrano/webroot/lib/web/jquery/jquery.cookie.js

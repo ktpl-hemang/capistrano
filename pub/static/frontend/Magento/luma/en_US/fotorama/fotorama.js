@@ -1,0 +1,1 @@
+/var/www/html/capistrano/webroot/lib/web/fotorama/fotorama.js
